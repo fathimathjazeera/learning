@@ -1,4 +1,11 @@
 export const mandattharam = async (req,res) => {
 
+    
 }
-hello
+
+export const pottattharam = async (req,res) => {
+    
+}
+
+
+
